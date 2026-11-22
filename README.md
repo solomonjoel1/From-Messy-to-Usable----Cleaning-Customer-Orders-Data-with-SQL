@@ -1,13 +1,19 @@
 # From-Messy-to-Usable----Cleaning-Customer-Orders-Data-with-SQL
 # Cleaning Messy Customer & Orders Data with SQL
 
+## Project Overview
+Cleaned raw customer and orders data from a sales system to make it ready for analysis in Power BI / Excel.
+
+## Files
+- `data/` - Raw and cleaned CSV files
+- `sql/01_audit_errors.sql` - Audit script to find errors
+- `sql/02_cleaning.sql` - Cleaning script
+- `sql/03_analysis.sql` - Analysis with JOIN, GROUP BY, SUM
+
 ## Problem
 Raw data from a sales system had duplicates, inconsistent casing, 
 mixed date formats, text amounts, and invalid values like -5000.
 
-## Tables
-- raw_customers: 200 rows
-- raw_orders: 500 rows
 
 ## Errors Found (Audit)
 - 10 duplicate customer_ids
