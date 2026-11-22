@@ -1,0 +1,201 @@
+"customer_id","customer_name","city","phone","email"
+1,TUNDE,lagos,"08031234567",no-email
+2,Chioma,LAGOS ,unknown,no-email
+3,musa, Abuja,"0803-123-4567",no-email
+4,Funke,Lagos,"08031234567",ada@gmail.com
+5, ada ,lagos,unknown,no-email
+6,TUNDE,LAGOS ,"0803-123-4567",no-email
+7,Chioma, Abuja,"08031234567",no-email
+8,musa,Lagos,unknown,ada@gmail.com
+9,Funke,lagos,"0803-123-4567",no-email
+10, ada ,LAGOS ,"08031234567",no-email
+11,TUNDE, Abuja,unknown,no-email
+12,Chioma,Lagos,"0803-123-4567",ada@gmail.com
+13,musa,lagos,"08031234567",no-email
+14,Funke,LAGOS ,unknown,no-email
+15, ada , Abuja,"0803-123-4567",no-email
+16,TUNDE,Lagos,"08031234567",ada@gmail.com
+17,Chioma,lagos,unknown,no-email
+18,musa,LAGOS ,"0803-123-4567",no-email
+19,Funke, Abuja,"08031234567",no-email
+19, ada ,Lagos,unknown,ada@gmail.com
+21,TUNDE,lagos,"0803-123-4567",no-email
+22,Chioma,LAGOS ,"08031234567",no-email
+23,musa,,unknown,no-email
+24,Funke,Lagos,"0803-123-4567",ada@gmail.com
+25, ada ,lagos,"08031234567",no-email
+26,TUNDE,LAGOS ,unknown,no-email
+27,Chioma, Abuja,"0803-123-4567",no-email
+28,musa,Lagos,"08031234567",ada@gmail.com
+29,Funke,lagos,,no-email
+30, ada ,LAGOS ,"0803-123-4567",no-email
+31,TUNDE, Abuja,"08031234567",
+32,Chioma,Lagos,unknown,ada@gmail.com
+33,musa,lagos,"0803-123-4567",no-email
+34,Funke,LAGOS ,"08031234567",no-email
+35, ada , Abuja,unknown,no-email
+36,TUNDE,Lagos,"0803-123-4567",ada@gmail.com
+37,,lagos,"08031234567",no-email
+38,musa,LAGOS ,unknown,no-email
+39,Funke, Abuja,"0803-123-4567",no-email
+39, ada ,Lagos,"08031234567",ada@gmail.com
+41,TUNDE,lagos,unknown,no-email
+42,Chioma,LAGOS ,"0803-123-4567",no-email
+43,musa, Abuja,"08031234567",no-email
+44,Funke,Lagos,unknown,ada@gmail.com
+45, ada ,lagos,"0803-123-4567",no-email
+46,TUNDE,,"08031234567",no-email
+47,Chioma, Abuja,unknown,no-email
+48,musa,Lagos,"0803-123-4567",ada@gmail.com
+49,Funke,lagos,"08031234567",no-email
+50, ada ,LAGOS ,unknown,no-email
+51,TUNDE, Abuja,"0803-123-4567",no-email
+52,Chioma,Lagos,"08031234567",ada@gmail.com
+53,musa,lagos,unknown,no-email
+54,Funke,LAGOS ,"0803-123-4567",no-email
+55, ada , Abuja,"08031234567",no-email
+56,TUNDE,Lagos,unknown,ada@gmail.com
+57,Chioma,lagos,"0803-123-4567",no-email
+58,musa,LAGOS ,,no-email
+59,Funke, Abuja,unknown,no-email
+59, ada ,Lagos,"0803-123-4567",ada@gmail.com
+61,TUNDE,lagos,"08031234567",no-email
+62,Chioma,LAGOS ,unknown,
+63,musa, Abuja,"0803-123-4567",no-email
+64,Funke,Lagos,"08031234567",ada@gmail.com
+65, ada ,lagos,unknown,no-email
+66,TUNDE,LAGOS ,"0803-123-4567",no-email
+67,Chioma, Abuja,"08031234567",no-email
+68,musa,Lagos,unknown,ada@gmail.com
+69,Funke,,"0803-123-4567",no-email
+70, ada ,LAGOS ,"08031234567",no-email
+71,TUNDE, Abuja,unknown,no-email
+72,Chioma,Lagos,"0803-123-4567",ada@gmail.com
+73,musa,lagos,"08031234567",no-email
+74,,LAGOS ,unknown,no-email
+75, ada , Abuja,"0803-123-4567",no-email
+76,TUNDE,Lagos,"08031234567",ada@gmail.com
+77,Chioma,lagos,unknown,no-email
+78,musa,LAGOS ,"0803-123-4567",no-email
+79,Funke, Abuja,"08031234567",no-email
+79, ada ,Lagos,unknown,ada@gmail.com
+81,TUNDE,lagos,"0803-123-4567",no-email
+82,Chioma,LAGOS ,"08031234567",no-email
+83,musa, Abuja,unknown,no-email
+84,Funke,Lagos,"0803-123-4567",ada@gmail.com
+85, ada ,lagos,"08031234567",no-email
+86,TUNDE,LAGOS ,unknown,no-email
+87,Chioma, Abuja,,no-email
+88,musa,Lagos,"08031234567",ada@gmail.com
+89,Funke,lagos,unknown,no-email
+90, ada ,LAGOS ,"0803-123-4567",no-email
+91,TUNDE, Abuja,"08031234567",no-email
+92,Chioma,,unknown,ada@gmail.com
+93,musa,lagos,"0803-123-4567",
+94,Funke,LAGOS ,"08031234567",no-email
+95, ada , Abuja,unknown,no-email
+96,TUNDE,Lagos,"0803-123-4567",ada@gmail.com
+97,Chioma,lagos,"08031234567",no-email
+98,musa,LAGOS ,unknown,no-email
+99,Funke, Abuja,"0803-123-4567",no-email
+99, ada ,Lagos,"08031234567",ada@gmail.com
+101,TUNDE,lagos,unknown,no-email
+102,Chioma,LAGOS ,"0803-123-4567",no-email
+103,musa, Abuja,"08031234567",no-email
+104,Funke,Lagos,unknown,ada@gmail.com
+105, ada ,lagos,"0803-123-4567",no-email
+106,TUNDE,LAGOS ,"08031234567",no-email
+107,Chioma, Abuja,unknown,no-email
+108,musa,Lagos,"0803-123-4567",ada@gmail.com
+109,Funke,lagos,"08031234567",no-email
+110, ada ,LAGOS ,unknown,no-email
+111,, Abuja,"0803-123-4567",no-email
+112,Chioma,Lagos,"08031234567",ada@gmail.com
+113,musa,lagos,unknown,no-email
+114,Funke,LAGOS ,"0803-123-4567",no-email
+115, ada ,,"08031234567",no-email
+116,TUNDE,Lagos,,ada@gmail.com
+117,Chioma,lagos,"0803-123-4567",no-email
+118,musa,LAGOS ,"08031234567",no-email
+119,Funke, Abuja,unknown,no-email
+119, ada ,Lagos,"0803-123-4567",ada@gmail.com
+121,TUNDE,lagos,"08031234567",no-email
+122,Chioma,LAGOS ,unknown,no-email
+123,musa, Abuja,"0803-123-4567",no-email
+124,Funke,Lagos,"08031234567",
+125, ada ,lagos,unknown,no-email
+126,TUNDE,LAGOS ,"0803-123-4567",no-email
+127,Chioma, Abuja,"08031234567",no-email
+128,musa,Lagos,unknown,ada@gmail.com
+129,Funke,lagos,"0803-123-4567",no-email
+130, ada ,LAGOS ,"08031234567",no-email
+131,TUNDE, Abuja,unknown,no-email
+132,Chioma,Lagos,"0803-123-4567",ada@gmail.com
+133,musa,lagos,"08031234567",no-email
+134,Funke,LAGOS ,unknown,no-email
+135, ada , Abuja,"0803-123-4567",no-email
+136,TUNDE,Lagos,"08031234567",ada@gmail.com
+137,Chioma,lagos,unknown,no-email
+138,musa,,"0803-123-4567",no-email
+139,Funke, Abuja,"08031234567",no-email
+139, ada ,Lagos,unknown,ada@gmail.com
+141,TUNDE,lagos,"0803-123-4567",no-email
+142,Chioma,LAGOS ,"08031234567",no-email
+143,musa, Abuja,unknown,no-email
+144,Funke,Lagos,"0803-123-4567",ada@gmail.com
+145, ada ,lagos,,no-email
+146,TUNDE,LAGOS ,unknown,no-email
+147,Chioma, Abuja,"0803-123-4567",no-email
+148,,Lagos,"08031234567",ada@gmail.com
+149,Funke,lagos,unknown,no-email
+150, ada ,LAGOS ,"0803-123-4567",no-email
+151,TUNDE, Abuja,"08031234567",no-email
+152,Chioma,Lagos,unknown,ada@gmail.com
+153,musa,lagos,"0803-123-4567",no-email
+154,Funke,LAGOS ,"08031234567",no-email
+155, ada , Abuja,unknown,
+156,TUNDE,Lagos,"0803-123-4567",ada@gmail.com
+157,Chioma,lagos,"08031234567",no-email
+158,musa,LAGOS ,unknown,no-email
+159,Funke, Abuja,"0803-123-4567",no-email
+159, ada ,Lagos,"08031234567",ada@gmail.com
+161,TUNDE,,unknown,no-email
+162,Chioma,LAGOS ,"0803-123-4567",no-email
+163,musa, Abuja,"08031234567",no-email
+164,Funke,Lagos,unknown,ada@gmail.com
+165, ada ,lagos,"0803-123-4567",no-email
+166,TUNDE,LAGOS ,"08031234567",no-email
+167,Chioma, Abuja,unknown,no-email
+168,musa,Lagos,"0803-123-4567",ada@gmail.com
+169,Funke,lagos,"08031234567",no-email
+170, ada ,LAGOS ,unknown,no-email
+171,TUNDE, Abuja,"0803-123-4567",no-email
+172,Chioma,Lagos,"08031234567",ada@gmail.com
+173,musa,lagos,unknown,no-email
+174,Funke,LAGOS ,,no-email
+175, ada , Abuja,"08031234567",no-email
+176,TUNDE,Lagos,unknown,ada@gmail.com
+177,Chioma,lagos,"0803-123-4567",no-email
+178,musa,LAGOS ,"08031234567",no-email
+179,Funke, Abuja,unknown,no-email
+179, ada ,Lagos,"0803-123-4567",ada@gmail.com
+181,TUNDE,lagos,"08031234567",no-email
+182,Chioma,LAGOS ,unknown,no-email
+183,musa, Abuja,"0803-123-4567",no-email
+184,Funke,,"08031234567",ada@gmail.com
+185,,lagos,unknown,no-email
+186,TUNDE,LAGOS ,"0803-123-4567",
+187,Chioma, Abuja,"08031234567",no-email
+188,musa,Lagos,unknown,ada@gmail.com
+189,Funke,lagos,"0803-123-4567",no-email
+190, ada ,LAGOS ,"08031234567",no-email
+191,TUNDE, Abuja,unknown,no-email
+192,Chioma,Lagos,"0803-123-4567",ada@gmail.com
+193,musa,lagos,"08031234567",no-email
+194,Funke,LAGOS ,unknown,no-email
+195, ada , Abuja,"0803-123-4567",no-email
+196,TUNDE,Lagos,"08031234567",ada@gmail.com
+197,Chioma,lagos,unknown,no-email
+198,musa,LAGOS ,"0803-123-4567",no-email
+199,Funke, Abuja,"08031234567",no-email
+199, ada ,Lagos,unknown,ada@gmail.com
